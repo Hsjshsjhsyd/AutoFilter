@@ -7,7 +7,7 @@ class script(object):
  
     ABOUT_TXT = """
 <b>‣ ᴍʏ ɴᴀᴍᴇ : <a href="https://t.me/{}">ʙᴏᴛ</a>
-‣ ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/KUSHALHK">𝐊𝐔𝐒𝐇𝐀𝐋</a>
+‣ ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/pandawiz2">𝐊𝐔𝐒𝐇𝐀𝐋</a>
 ‣ ʟɪʙʀᴀʀʏ : <a href="https://pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ</a>
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ</a>
 ‣ ᴅᴀᴛᴀʙᴀꜱᴇ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
